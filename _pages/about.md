@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my website! I'm thrilled to have you here! 😊
 
-I am a Senior Lecturer at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specializing in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
+I am an Assistant Professor at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specializing in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
 
 My research interests include customer experience, digitalization, and trauma in business contexts. I have participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. I have also acquired multiple research skills, such as netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modeling. 
 
