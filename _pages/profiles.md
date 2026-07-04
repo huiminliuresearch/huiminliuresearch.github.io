@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /cat/
 title: Kitty
 nav: true
 nav_order: 7
