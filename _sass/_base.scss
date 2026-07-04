@@ -1220,35 +1220,9 @@ swiper-container {
 
     img {
       height: 100%;
-      object-fit: contain;
-      padding: 0.75rem;
+      object-fit: cover;
+      object-position: center;
       width: 100%;
-    }
-  }
-
-  .laszlo-dots {
-    bottom: 0.75rem;
-    display: flex;
-    gap: 0.45rem;
-    justify-content: center;
-    left: 0;
-    position: absolute;
-    right: 0;
-    z-index: 2;
-
-    button {
-      background: rgba(255, 255, 255, 0.75);
-      border: 1px solid rgba(143, 78, 98, 0.32);
-      border-radius: 999px;
-      cursor: pointer;
-      height: 0.65rem;
-      padding: 0;
-      width: 0.65rem;
-
-      &.is-active {
-        background: var(--global-theme-color);
-        border-color: var(--global-theme-color);
-      }
     }
   }
 }
