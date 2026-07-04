@@ -27,24 +27,37 @@ social: false # includes social icons at the bottom of the page
   <a href="https://github.com/huiminliuresearch" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
 </div>
 
-Welcome. I am an Assistant Professor at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specialising in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
+<section class="home-intro-block">
+  <h2>Welcome to my personal website!</h2>
+  <p>I am an Assistant Professor at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specialising in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.</p>
+</section>
 
-My research examines tourist experience, online and offline tourist behaviour, digitalisation, and trauma in tourism and business contexts. I am especially interested in how technology, consumer decision-making, and service environments shape meaningful and responsible experiences.
+<section class="research-visual-block" aria-labelledby="research-interests-heading">
+  <h2 id="research-interests-heading">Research Interests</h2>
+  <div class="research-interest-grid">
+    <div class="research-interest">
+      <i class="fa-solid fa-face-smile" aria-hidden="true"></i>
+      <span>Customer Experience</span>
+    </div>
+    <div class="research-interest">
+      <i class="fa-solid fa-microchip" aria-hidden="true"></i>
+      <span>Technology</span>
+    </div>
+    <div class="research-interest">
+      <i class="fa-solid fa-handshake-angle" aria-hidden="true"></i>
+      <span>Service Marketing</span>
+    </div>
+    <div class="research-interest">
+      <i class="fa-solid fa-heart-pulse" aria-hidden="true"></i>
+      <span>Trauma</span>
+    </div>
+  </div>
+</section>
 
-My work draws on mixed empirical approaches, including netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modelling. I have also contributed to academic and professional research projects, including the Philadelphia International Airport Passenger Survey Project and projects associated with the World Tourism Organization (UNWTO).
-
-I teach courses related to designing tourism experiences, digital portfolio creation, event management, and introduction to tourism management.
-
-Across research and teaching, I am motivated by the goal of advancing tourism and hospitality knowledge through evidence-based, human-centred, and practically useful insights.
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-I welcome research conversations, collaboration opportunities, and student enquiries.
-</p>
-
-<p align="center">
-  📧 <a href="mailto:huliu@hkmu.edu.hk">Email me</a>
-</p>
+<section class="home-connect-block">
+  <h2>Let's Connect</h2>
+  <p>I welcome conversations about research, teaching, tourism and hospitality, technology, service experiences, and future collaborations. Please feel free to reach out for a talk, a coffee chat, or potential research exchange.</p>
+  <a class="home-email-button" href="mailto:huliu@hkmu.edu.hk"><i class="fa-solid fa-envelope" aria-hidden="true"></i> Email me</a>
+</section>
 
 <p align="center"><sub>Last updated: July 2026</sub></p>
