@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /people/
 title: Kitty
-description: A small personal corner of the site.
 nav: true
 nav_order: 7
 

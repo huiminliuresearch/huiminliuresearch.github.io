@@ -1197,6 +1197,62 @@ swiper-container {
   }
 }
 
+.laszlo-slideshow {
+  aspect-ratio: 4 / 3;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  clear: both;
+  margin: 2rem 0 0;
+  overflow: hidden;
+  position: relative;
+
+  .laszlo-slide {
+    inset: 0;
+    opacity: 0;
+    position: absolute;
+    transition: opacity 0.7s ease;
+
+    &.is-active {
+      opacity: 1;
+      z-index: 1;
+    }
+
+    img {
+      height: 100%;
+      object-fit: contain;
+      padding: 0.75rem;
+      width: 100%;
+    }
+  }
+
+  .laszlo-dots {
+    bottom: 0.75rem;
+    display: flex;
+    gap: 0.45rem;
+    justify-content: center;
+    left: 0;
+    position: absolute;
+    right: 0;
+    z-index: 2;
+
+    button {
+      background: rgba(255, 255, 255, 0.75);
+      border: 1px solid rgba(143, 78, 98, 0.32);
+      border-radius: 999px;
+      cursor: pointer;
+      height: 0.65rem;
+      padding: 0;
+      width: 0.65rem;
+
+      &.is-active {
+        background: var(--global-theme-color);
+        border-color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
 @media (min-width: 768px) {
   .post article > .profile {
     width: 34%;
