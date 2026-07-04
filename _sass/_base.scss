@@ -1169,6 +1169,34 @@ swiper-container {
   }
 }
 
+.profile-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin: 0 0 1.4rem;
+
+  a {
+    align-items: center;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 50%;
+    color: var(--global-theme-color);
+    display: inline-flex;
+    font-size: 1.15rem;
+    height: 2.35rem;
+    justify-content: center;
+    text-decoration: none;
+    transition: border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    width: 2.35rem;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+      text-decoration: none;
+      transform: translateY(-2px);
+    }
+  }
+}
+
 @media (min-width: 768px) {
   .post article > .profile {
     width: 38%;
