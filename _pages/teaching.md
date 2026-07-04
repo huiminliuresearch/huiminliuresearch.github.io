@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description:  I am open to developing new courses based on the evolving teaching needs
+title: Teaching
+description: Teaching experience in tourism, hospitality, events, and digital portfolios.
 nav: true
 nav_order: 6
 ---

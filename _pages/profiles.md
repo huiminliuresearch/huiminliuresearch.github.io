@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: kitty
-description: my cat
+title: Kitty
+description: A small personal corner of the site.
 nav: true
 nav_order: 7
 

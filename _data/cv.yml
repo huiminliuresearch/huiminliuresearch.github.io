@@ -49,11 +49,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University
+      year: 2024 - present
+      description:
+        - Conduct research and teaching in tourism and hospitality management
+
     - title: Teaching/Research Assistant
       institution: Temple University
       year: 2020 - 2024
       description:
-        - Assist Faculty with Teaching Duties and Research Projects
+        - Assisted faculty with teaching duties and research projects
        # - Description 2.
        # - title: Description 3.
        #   contents:

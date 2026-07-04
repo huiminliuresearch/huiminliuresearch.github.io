@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href="https://www.hkmu.edu.hk">HKMU</a>. 30 Good Shepherd St, Hong Kong SAR, China
+subtitle: Assistant Professor, <a href="https://www.hkmu.edu.hk">Hong Kong Metropolitan University</a>
 
 profile:
   align: right
@@ -26,24 +26,24 @@ social: false # includes social icons at the bottom of the page
   <a href="https://scholar.google.com/citations?user=8Ggp74IAAAAJ&hl=en&authuser=1">Google Scholar</a>
 </p>
 
-Welcome to my website! I'm thrilled to have you here! 😊
+Welcome. I am an Assistant Professor at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specialising in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
 
-I am an Assistant Professor at the Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, specializing in tourism and hospitality management. Prior to joining HKMU, I earned my PhD in Business Administration from the Fox School of Business at Temple University.
+My research examines tourist experience, online and offline tourist behaviour, digitalisation, and trauma in tourism and business contexts. I am especially interested in how technology, consumer decision-making, and service environments shape meaningful and responsible experiences.
 
-My research interests include customer experience, digitalization, and trauma in business contexts. I have participated in various academic and professional research projects, such as the Philadelphia International Airport Passenger Survey Project and the World Tourism Organization (UNWTO) internships. I have also acquired multiple research skills, such as netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modeling. 
+My work draws on mixed empirical approaches, including netnography, experimental methods, statistical causal inference, meta-analysis, causal trees, and structural equation modelling. I have also contributed to academic and professional research projects, including the Philadelphia International Airport Passenger Survey Project and projects associated with the World Tourism Organization (UNWTO).
 
-I teach courses on designing tourism experiences, digital portfolio creation, event management, and introduction to tourism management.
+I teach courses related to designing tourism experiences, digital portfolio creation, event management, and introduction to tourism management.
 
-I am motivated by the goal of advancing the knowledge and practice of business through data-driven insights and solutions.
+Across research and teaching, I am motivated by the goal of advancing tourism and hospitality knowledge through evidence-based, human-centred, and practically useful insights.
 
-<h2 align="center">:sparkles: Let's Connect! :sparkles:</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-Interested in a coffee chat, potential collaboration, or just want to talk? I’m always open to discussing new ideas and opportunities. Don’t hesitate to reach out!
+I welcome research conversations, collaboration opportunities, and student enquiries.
 </p>
 
 <p align="center">
   📧 <a href="mailto:huliu@hkmu.edu.hk">Email me</a>
 </p>
 
-<p align="center"><sub>Last Updated: Oct. 2024</sub></p>
+<p align="center"><sub>Last updated: July 2026</sub></p>
