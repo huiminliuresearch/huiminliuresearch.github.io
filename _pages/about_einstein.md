@@ -1,1 +1,1 @@
-Laszlo is a domestic medium-hair cat and a cheerful companion behind the scenes of research and writing.
+Laszlo is a four-year-old domestic medium-hair cat and the major research supporter behind the scenes. He provides mental soothing, quiet companionship, and a daily role model for bravery and resilience. His notable achievements include biting a new MacBook Pro screen and many charging cables, which has strongly motivated me to work harder and provide him with an even better life.
