@@ -859,6 +859,23 @@ footer.sticky-bottom {
   }
 }
 
+.apa-publications {
+  margin-top: 1.35rem;
+
+  p {
+    border-bottom: 1px solid var(--global-divider-color);
+    line-height: 1.65;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
