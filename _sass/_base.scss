@@ -1274,10 +1274,12 @@ swiper-container {
   background: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
-  clear: both;
-  margin: 2rem 0 0;
+  float: right;
+  margin: 0.25rem 0 1rem 1.35rem;
+  max-width: 100%;
   overflow: hidden;
   position: relative;
+  width: min(320px, 42%);
 
   .laszlo-slide {
     inset: 0;
@@ -1328,5 +1330,11 @@ article .clearfix > p:first-child {
 
   .research-interest-grid {
     grid-template-columns: 1fr;
+  }
+
+  .laszlo-slideshow {
+    float: none;
+    margin: 1.25rem 0 1rem;
+    width: 100%;
   }
 }
