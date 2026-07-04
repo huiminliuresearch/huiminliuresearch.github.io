@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching experience in tourism, hospitality, events, customer experience, and business planning.
 nav: true
 nav_order: 6
 ---

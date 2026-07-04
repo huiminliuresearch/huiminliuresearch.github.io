@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research and professional projects in tourism and hospitality.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
